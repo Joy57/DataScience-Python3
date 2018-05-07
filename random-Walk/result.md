@@ -1,40 +1,41 @@
-Walk size =  1  / % of no transport =  100.0
-
-Walk size =  2  / % of no transport =  100.0
-Walk size =  3  / % of no transport =  100.0
-Walk size =  4  / % of no transport =  100.0
-Walk size =  5  / % of no transport =  88.46000000000001
-Walk size =  6  / % of no transport =  93.705
-Walk size =  7  / % of no transport =  76.47
-Walk size =  8  / % of no transport =  85.88
-Walk size =  9  / % of no transport =  67.715
-Walk size =  10  / % of no transport =  79.345
-Walk size =  11  / % of no transport =  59.589999999999996
-Walk size =  12  / % of no transport =  72.48
-Walk size =  13  / % of no transport =  53.48500000000001
-Walk size =  14  / % of no transport =  67.15
-Walk size =  15  / % of no transport =  48.78
-Walk size =  16  / % of no transport =  62.44
-Walk size =  17  / % of no transport =  44.725
-Walk size =  18  / % of no transport =  58.160000000000004
-Walk size =  19  / % of no transport =  40.985
-Walk size =  20  / % of no transport =  54.400000000000006
-Walk size =  21  / % of no transport =  38.519999999999996
-`Walk size =  22  / % of no transport =  51.449999999999996`
-Walk size =  23  / % of no transport =  35.565000000000005
-Walk size =  24  / % of no transport =  48.13
-Walk size =  25  / % of no transport =  32.82
-Walk size =  26  / % of no transport =  44.985
-Walk size =  27  / % of no transport =  31.255
-Walk size =  28  / % of no transport =  42.809999999999995
-Walk size =  29  / % of no transport =  29.345
-Walk size =  30  / % of no transport =  40.465
-Walk size =  31  / % of no transport =  27.800000000000004
-Walk size =  32  / % of no transport =  38.955
-Walk size =  33  / % of no transport =  26.705000000000002
-Walk size =  34  / % of no transport =  36.405
-Walk size =  35  / % of no transport =  25.185000000000002
-Walk size =  36  / % of no transport =  35.099999999999994
-Walk size =  37  / % of no transport =  23.435
-Walk size =  38  / % of no transport =  33.675
-Walk size =  39  / % of no transport =  22.655
+|Walk Size | % of no transport |
+|----------|-------------------|
+1  |  100.0
+2  |  100.0
+3  |  100.0
+4  |  100.0
+5  |  87.545
+6  |  94.095
+7  |  76.87
+8  |  86.47500000000001
+9  |  66.685
+10  |  79.46
+11  |  59.214999999999996
+12  |  72.71
+13  |  54.0
+14  |  67.295
+15  |  49.07
+16  |  62.015
+17  |  44.84
+18  |  58.425000000000004
+19  |  41.375
+20  |  54.65
+21  |  38.224999999999994
+*22  |  50.78
+23  |  35.58
+24  |  48.385
+25  |  33.295
+26  |  45.455
+27  |  31.485000000000003
+28  |  42.33
+29  |  29.735
+30  |  40.910000000000004
+31  |  27.639999999999997
+32  |  38.61
+33  |  26.314999999999998
+34  |  37.065
+35  |  25.28
+36  |  35.504999999999995
+37  |  24.05
+38  |  33.87
+39  |  22.759999999999998
