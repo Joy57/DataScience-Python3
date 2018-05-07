@@ -1,7 +1,7 @@
 import csv
 from datetime import datetime 
 
-path = "/Users/Joy/Documents/githubRep/privateTest/PYTHON_tut/csv/stock_data.csv"
+path = "/Users/Joy/Documents/githubRep/DataScience-Python3/Data_GoogleStock/stock_data.csv"
 file = open(path, newline='') #string may end with new line, this will ensure module will work correctly across the platform
 
 reader = csv.reader(file)
@@ -26,7 +26,7 @@ for row in reader:
     data.append([date, open_price, high, low, close, volume, adj_close])
 
 # compute and store daily stock returns
-returns_path = "/Users/Joy/Documents/githubRep/privateTest/PYTHON_tut/csv/stock_return.csv"
+returns_path = "/Users/Joy/Documents/githubRep/DataScience-Python3/Data_GoogleStock/stock_return.csv"
 file = open(returns_path, 'w')
 writer = csv.writer(file)
 writer.writerow(["Date", "Return"])
