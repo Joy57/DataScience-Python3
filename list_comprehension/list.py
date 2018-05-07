@@ -14,10 +14,11 @@ movies_tuple = [("Abraham Lincoln", 1993), ("Blue Steel", 1938), ("Behind Office
 # [expr for val in collection if <test> and <test2>]
 # [expr for val1 in collection1 and val2 in collection2]
 
+#find movies that starts with "B"
 selected_movies = [title for title in movies if title.startswith("B")]
 print(selected_movies)
 
 
-#this is for tuples
+#this is for tuples--- find movies released before 2000
 selected_movies2 = [title for (title, year) in movies_tuple if year <2000 ]
 print (selected_movies2)
